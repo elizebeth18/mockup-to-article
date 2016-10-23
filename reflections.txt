@@ -1,0 +1,13 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+	This assignment work has really been exicting.Actually I loved what I did, it was really cool stuff !!!!.When it comes to the new things I learnt I can say that
+I came across HTML tags like strike through and horizontal rule which were new to me, and I have never used before.While I was doing this assignment the mozilla's reference
+document was really helpful and it even helped me to understand the difference between <em> tag and <i> tag. In this assignment I didnt find any diffculty because things were
+pretty straight forward and not only that tutorial and mozilla's reference document were really helpful and , last but not the least even the hints too.
